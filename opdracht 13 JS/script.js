@@ -1,0 +1,12 @@
+console.log("Hello Winc Academy")
+console.log('sebastiaan')
+console.log(4+4)
+console.log('4'+'4')
+var y = 5;
+console.log(x=y+2)
+console.log(x=y-2)
+console.log(x=y*2)
+console.log(x=y/2)
+console.log(x=y%2)
+console.log(typeof 48)
+console.log(typeof fourtyeight)
